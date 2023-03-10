@@ -1,4 +1,4 @@
-[![MasterHead](https://images.app.goo.gl/iHUEXvKnGjwYcD6j9)](https://github.com/Prahlad08s/Prahlad08s)
+[![MasterHead](https://images.app.goo.gl/WgD4ZANCcMi9cBxZ8)](https://github.com/Prahlad08s/Prahlad08s)
 
 - 🔭 I’m currently working on "Covid Cases Tracker" Application.
 - 🌱 I’m currently learning Android Development
