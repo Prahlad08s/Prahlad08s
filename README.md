@@ -4,6 +4,11 @@
  <img alt="Engineering Is The Future." src="https://c4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-preview.jpg">
 </picture>
 
+
+## About me
+Hi, I'm Prahlad. I am currently a Microsoft Learn Student Ambassador.
+
+
 - 🔭 I’m currently working on "Covid Cases Tracker" Application.
 - 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate on Android and Web Dev related projects.
@@ -12,4 +17,22 @@
 - 📫 How to reach me: https://www.linkedin.com/in/prahlad-singh
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to motivate people with my blood group beacause its B +ve.:smile:
+
+<details>
+<summary>My Top Languages</summary>
+
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1| C++           |
+|     2| Java          |
+|     3| Kotlin        |
+
+</details>
+
+
+---
+>  If we pull together and commit ourselves, then we can push through anything.
+
+— Prahlad the Developer
+
 
