@@ -1,10 +1,5 @@
 [![MasterHead](https://images.app.goo.gl/iHUEXvKnGjwYcD6j9)](https://github.com/Prahlad08s/Prahlad08s)
 
-<!--
-**Prahlad08s/Prahlad08s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on "Covid Cases Tracker" Application.
 - 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate on Android and Web Dev related projects.
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/prahlad-singh
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to motivate people with my blood group beacause its B +ve.:smile:
--->
+
